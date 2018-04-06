@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+
+#header {
+	height: 46px;
+	display: flex;
+	border-bottom: 1px solid grey;
+	justify-content: space-between;
+}
+
+#navDiv {
+	margin-top: -6px;
+}
+
+ul li{
+	display: inline-block;
+	padding: 0 10px 16px 10px;
+	color: #222;
+	font-family: arial;
+	font-size: 12px;
+}
+
+#titleDiv {
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#title {
+	height: 14px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#sale {
+	color: red;
+}
+
+input {
+	width: 125px;
+	font-family: helvetica;
+	padding: 6px 0 6px 0;
+	font-size: 12px;
+	margin-top: 4px;
+}
+
+#signIn {
+	font-family: helvetica;
+	font-size: 12px;
+	margin: 0 20px 0 20px;
+	color: #8B7D6B;
+}
+
+#redBanner {
+	height: 216px;
+	width: 1229px;
+	background-color: #fc6858;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#saleP {
+	text-align: center;
+}
+
+#limited {
+	font-size: 12px;
+	font-family: helvetica;
+	color: #EBECE4;
+}
+
+#boldFont {
+	font-family: 'Bungee Shade', cursive;
+	color: white;
+	font-size: 40px;
+}
+
+#offAll {
+	font-family: 'Bungee Shade', cursive;
+	color: white;
+	font-size: 40px;
+}
+
+#thirty {
+	font-family: 'Bungee Shade', cursive;
+	color: #7FFFD4;
+	font-size: 65px;
+}
+
+button {
+	font-size: 12px;
+	font-family: helvetica;
+	background-color: #fff0ee;
+	padding: 8px 20px 8px 20px;
+	border-style: none;
+}
+
+#middleButton {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+#buttons {
+	position: absolute;
+	top: 205px;
+    left: 50%;
+    margin-right: -50%;
+    margin-top: 45px;
+    transform: translate(-50%, -50%)
+}
+
+#largeImages {
+	margin: 0 auto;
+	margin-left: 40px;
+}
+
+#flashingImage {
+	padding: 10px;
+	width: 604px;
+}
+
+#staticImage {
+	width: 604px;
+	padding: 10px;
+}
+
+
